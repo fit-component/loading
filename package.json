@@ -1,6 +1,6 @@
 {
   "name": "fit-loading",
-  "version": "0.0.13",
+  "version": "0.0.14",
   "description": "",
   "main": "lib/index.js",
   "scripts": {
@@ -12,10 +12,6 @@
   },
   "author": "tieba",
   "license": "ISC",
-  "dependencies": {
-    "react": "^15.1.0",
-    "classnames": "^2.2.3",
-    "fit-transmit-transparently": "^3.1.16"
-  },
+  "dependencies": {},
   "typings": "lib/index.d.ts"
 }
