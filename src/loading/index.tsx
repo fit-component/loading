@@ -19,8 +19,8 @@ export default class Loading extends React.Component<module.PropsInterface,modul
         return (
             <div {...others(new module.Props(), this.props)}
                 className={classes}>
-                <svg className="spinner" width={this.props.size} height={this.props.size} viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
-                    <circle className="path" fill="none" stroke-width="6" stroke-linecap="round" cx="33" cy="33" r="30"></circle>
+                <svg className="spinner" width={this.props.size} height={this.props.size} viewBox="0 0 66 66">
+                    <circle className="path" fill="none" strokeWidth="2" strokeLinecap="round" cx="33" cy="33" r="30"></circle>
                 </svg>
             </div>
         )
