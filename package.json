@@ -1,6 +1,6 @@
 {
   "name": "fit-loading",
-  "version": "0.0.21",
+  "version": "0.0.22",
   "description": "",
   "main": "lib/index.js",
   "scripts": {
@@ -15,7 +15,7 @@
   "dependencies": {
     "react": "^0.14.0 || ^15.0.0",
     "classnames": "^2.2.3",
-    "fit-transmit-transparently": "^3.1.24"
+    "fit-transmit-transparently": "^3.1.25"
   },
   "typings": "lib/index.d.ts"
 }
